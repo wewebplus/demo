@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'cordiaNew';
+    src: url('Cordia-New.eot');
+    src: url('Cordia-New.eot?#iefix') format('embedded-opentype'),
+         url('Cordia-New.woff') format('woff'),
+         url('Cordia-New.ttf') format('truetype'),
+         url('Cordia-New.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+	
+}

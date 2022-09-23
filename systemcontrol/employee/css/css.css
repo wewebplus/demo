@@ -1,0 +1,32 @@
+a.boxviewimages { display: block; width: 165px;}
+a.boxviewimages img { width: 100%;}
+
+.cropit-preview {
+	background-color: #f8f8f8;
+	background-size: cover;
+	border: 1px solid #ccc;
+	/*border-radius: 3px;*/
+	margin-top: 7px;
+}
+.cropit-preview-image-container { cursor: move;}
+.image-size-label {	margin-top: 10px;}
+
+.image-editor a.rotate-ccw { display:block; width:40px; height:40px; background:url(../img/rotate_ccw.png) no-repeat; font-size:0; margin: 0 auto;}
+.image-editor a.rotate-cw { display:block; width:40px; height:40px; background:url(../img/rotate_cw.png) no-repeat; font-size:0; margin: 0 auto;}
+
+div.upload {
+    width: 109px;
+    height: 30px;
+    background:url(../img/upload.png) no-repeat; cursor:pointer;
+    overflow: hidden;
+}
+div.upload input {
+    display: block !important;
+    width: 109px !important;
+    height: 30px !important;
+    opacity: 0 !important;
+    overflow: hidden !important; cursor:pointer;
+}
+.Recommended { padding: 4px 0 4px 0; text-align: center;}
+.TableBoxUploadTool { border-spacing: 4px; width:100%;}
+.TableBoxUploadTool td.cc { width: 50px;}

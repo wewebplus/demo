@@ -1,0 +1,17 @@
+a.boxviewimages { display: block; width: 165px;}
+a.boxviewimages img { width: 100%;}
+.w100p { width: 100%;}
+
+img.imglistgallery {display:block; max-height: 140px; margin: 5px auto; width: 100%;}
+
+#sortable { list-style-type: none; margin: 0; padding: 0; }
+#sortable > li { position: relative; margin: 10px; padding: 5px; float: left; width: 150px; height: 180px; font-size: 4em; text-align: center; background:#CCC; border: 1px solid #000;}
+#sortable > li > div.showimgs { display:block; width:100%; height:140px; overflow:hidden; margin:0 auto;}
+#sortable > li > a.delimg { display: block; position: absolute; width: 20px; bottom:5px; right: 5px; font-size: 20px; }
+#sortable > li > a.positionimg { display: block; position: absolute; width: 20px; bottom:5px; left: 5px; font-size: 20px; }
+#sortable > li > div.btn-group { display: block; position: absolute; width: 100px; bottom:5px; left: 5px; font-size: 20px; }
+#sortable > li > a:hover {color: #000;}
+
+/*dropzone demo css*/
+.dz-message { height:0px !important;  }
+.dz-default.dz-message span {  opacity: 1 !important;display:block !important;;}

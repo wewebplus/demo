@@ -1,0 +1,19 @@
+
+/* Tree */
+.tree .node-container{display:block; border-bottom:2px solid transparent;}
+.tree .node-container > .wrapper{
+    display:flex; align-items:center; justify-content:center; width:190px; height:70px;
+    position:relative; text-align:center; font-size:15px; font-weight:500; line-height:1.4;
+}
+.tree .node-container > .wrapper::after{
+    content:''; position:absolute; top:calc(50% - .375rem); left:-.375rem;
+    display:block; width:.75rem; height:.75rem; border-radius:50%;
+}
+
+.tree .root .header-wrapper{display:flex; margin:0 0 15px 0;}
+.tree .root .header-wrapper .icon{width:60px;}
+.tree .root .header-wrapper .icon img{display:block; width:100%; height:auto;}
+.tree .root .header-wrapper .text-container{white-space:nowrap; padding:14px 0 0 12px;}
+.tree .root .node-container > .wrapper::after{
+    top:unset; bottom:-.375rem; left:calc(50% - .375rem);
+}

@@ -1,0 +1,31 @@
+.boxlang { border: 0px solid #CCC; padding: 10px; margin: 0 0 10px 0;}
+.paneltab {
+  position: relative; margin: 0 10px 0 10px;
+  height: auto;
+  color: #999;
+  border-radius: 0;
+  border-top: 1px solid transparent;
+  border-left: 0;
+  border-right: 0;
+  background-color: #FAFAFA;
+}
+.paneltab li.active > a {
+  border-top: 2px solid #4a89dc;
+  border-left: 1px solid #CCC;
+  border-bottom: 0px solid #CCC !important;
+}
+.paneltab li > a .required { color: #F00;}
+.paneltabbody { margin: 0 10px 0 10px; border-left: 1px solid #CCC;border-right: 1px solid #CCC;border-bottom: 1px solid #CCC;}
+
+ul.ShowResult { margin: 0; padding: 0;}
+ul.ShowResult li { display: flex; align-items: center; justify-content: space-between; padding: 5px;}
+ul.ShowResult li:hover { background: #f1f1f1;}
+ul.ShowResult li > .relateline { width: 80%;}
+ul.ShowResult li > .relateline input[type=text] { width: 70%;}
+ul.ShowResult li > .relatelinebtn { width: 25%; display: flex; align-items: center; justify-content: space-around;}
+ul.ShowResult li > .relatelinebtn .icondisable { color: #000;}
+ul.ShowResult li > .relatelinebtn > a { display: block; margin: 0 5px 0 5px; width: 30px; text-align: center; color: #016a9a; border: 1px solid #016a9a; border-radius: 50%;}
+ul.ShowResult li > .relatelinebtn > a.statusOn {}
+ul.ShowResult li > .relatelinebtn > a.statusOff { color: #F00;}
+
+#modal-formedit { max-width: 800px !important;}

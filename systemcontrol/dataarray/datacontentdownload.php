@@ -1,0 +1,203 @@
+<?php
+$Array_Mod_Lang["txt:Detail Head"]["TH"] = "ระบบจัดการ Content";
+$Array_Mod_Lang["txt:Detail Head"]["EN"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["CN"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["JP"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["DE"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["FR"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["ES"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["KR"] = "Manage Content system";
+$Array_Mod_Lang["txt:Detail Head"]["AED"] = "Manage Content system";
+
+$Array_Mod_Lang["txt:Head 01"]["TH"] = "วันที่แสดงผล";
+$Array_Mod_Lang["txt:Head 01"]["EN"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["CN"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["JP"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["DE"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["FR"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["ES"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["KR"] = "Content Date";
+$Array_Mod_Lang["txt:Head 01"]["AED"] = "Content Date";
+$Array_Mod_Lang["txt:Head 02"]["TH"] = "รายละเอียด";
+$Array_Mod_Lang["txt:Head 02"]["EN"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["CN"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["JP"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["DE"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["FR"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["ES"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["KR"] = "Content Information";
+$Array_Mod_Lang["txt:Head 02"]["AED"] = "Content Information";
+$Array_Mod_Lang["txt:Head 03"]["TH"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["EN"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["CN"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["JP"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["DE"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["FR"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["ES"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["KR"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 03"]["AED"] = "Content Image Upload & Preview";
+$Array_Mod_Lang["txt:Head 04"]["TH"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["EN"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["CN"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["JP"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["DE"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["FR"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["ES"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["KR"] = "Content Setting";
+$Array_Mod_Lang["txt:Head 04"]["AED"] = "Content Setting";
+
+$Array_Mod_Lang["txtinput:inputDateTime"]["TH"] = "ระยะเวลาการแสดงผล";//Header ( พาดหัวหลัก )
+$Array_Mod_Lang["txtinput:inputDateTime"]["EN"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["CN"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["JP"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["DE"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["FR"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["ES"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["KR"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputDateTime"]["AED"] = "Expire Date";
+$Array_Mod_Lang["txtinput:inputGroup"]["TH"] = "กลุ่ม";
+$Array_Mod_Lang["txtinput:inputGroup"]["EN"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["CN"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["JP"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["DE"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["FR"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["ES"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["KR"] = "Group";
+$Array_Mod_Lang["txtinput:inputGroup"]["AED"] = "Group";
+
+$Array_Mod_Lang["txtinput:inputSubject"]["TH"] = "พาดหัว";//Header ( พาดหัวหลัก )
+$Array_Mod_Lang["txtinput:inputSubject"]["EN"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["CN"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["JP"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["DE"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["FR"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["ES"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["KR"] = "Header";
+$Array_Mod_Lang["txtinput:inputSubject"]["AED"] = "Header";
+$Array_Mod_Lang["txtinput:inputTitle"]["TH"] = "รายละเอียดย่อ";
+$Array_Mod_Lang["txtinput:inputTitle"]["EN"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["CN"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["JP"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["DE"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["FR"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["ES"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["KR"] = "Title";
+$Array_Mod_Lang["txtinput:inputTitle"]["AED"] = "Title";
+$Array_Mod_Lang["txtinput:inputType"]["TH"] = "รูปแบบเอกสารดาวน์โหลด";
+$Array_Mod_Lang["txtinput:inputType"]["EN"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["CN"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["JP"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["DE"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["FR"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["ES"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["KR"] = "Document Type";
+$Array_Mod_Lang["txtinput:inputType"]["AED"] = "Document Type";
+
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["TH"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["EN"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["CN"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["JP"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["DE"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["FR"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["ES"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["KR"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeL"]["AED"] = "Link Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["TH"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["EN"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["CN"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["JP"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["DE"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["FR"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["ES"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["KR"] = "File Document";
+$Array_Mod_Lang["txtinput:DocumentDownloadTypeF"]["AED"] = "File Document";
+
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["TH"] = "ตัวอย่างเอกสาร";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["EN"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["CN"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["JP"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["DE"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["FR"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["ES"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["KR"] = "File Preview";
+$Array_Mod_Lang["txtinput:inputDownloadPreview"]["AED"] = "File Preview";
+
+
+$Array_Mod_Lang["txtinput:OnOffPassword"]["TH"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["EN"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["CN"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["JP"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["DE"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["FR"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["ES"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["KR"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPassword"]["AED"] = "ปิด / เปิด รหัสผ่าน";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["TH"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["EN"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["CN"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["JP"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["DE"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["FR"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["ES"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["KR"] = "ปิด / เปิด Public";
+$Array_Mod_Lang["txtinput:OnOffPublic"]["AED"] = "ปิด / เปิด Public";
+
+$Array_Mod_Lang["txt:Password"]["TH"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["EN"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["CN"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["JP"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["DE"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["FR"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["ES"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["KR"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Password"]["AED"] = "รหัสผ่าน";
+$Array_Mod_Lang["txt:Public"]["TH"] = "Public";
+$Array_Mod_Lang["txt:Public"]["EN"] = "Public";
+$Array_Mod_Lang["txt:Public"]["CN"] = "Public";
+$Array_Mod_Lang["txt:Public"]["JP"] = "Public";
+$Array_Mod_Lang["txt:Public"]["DE"] = "Public";
+$Array_Mod_Lang["txt:Public"]["FR"] = "Public";
+$Array_Mod_Lang["txt:Public"]["ES"] = "Public";
+$Array_Mod_Lang["txt:Public"]["KR"] = "Public";
+$Array_Mod_Lang["txt:Public"]["AED"] = "Public";
+
+$inmodulekey = array_keys($menuFolder, "contentdownload");
+$pathupload = _RELATIVE_PATH_UPLOAD_;
+$z = new __webctrl;
+foreach($inmodulekey as $kModuleKey=>$vModuleKey){
+  $LMId = "Admin".$vModuleKey;
+  $LMModuleKey = $menuModuleKey[$vModuleKey];
+  $dataGroupMathching[$LMId] = $LMModuleKey;
+  $arrinkey = array();
+  array_push($arrinkey, $LMId, $LMModuleKey);
+  $pathuploadmodule = $pathupload."/".$LMModuleKey."/";
+  $pathuploadhtml = $pathuploadmodule."content_htmlfile/";
+  $pathuploadfile = $pathuploadmodule."file_attach/";
+  $pathuploadpicture = $pathuploadmodule."thumbnail_picture/";
+  $FieldLang = (!empty($_SESSION['Session_Admin_Language'])?$_SESSION['Session_Admin_Language']:'EN');
+  $sql = "";
+  $sql .= "SELECT "._TABLE_DOWNLOAD_GROUP_."_ID AS ID,"._TABLE_DOWNLOAD_GROUP_."_".$FieldLang." AS Name FROM "._TABLE_DOWNLOAD_GROUP_;
+  $sql .= " WHERE "._TABLE_DOWNLOAD_GROUP_."_Folder = '".$LMModuleKey."'";
+  $sql .= " AND "._TABLE_DOWNLOAD_GROUP_."_Status = 'On'";
+  $sql .= " ORDER BY "._TABLE_DOWNLOAD_GROUP_."_Order DESC";
+  $z->sql($sql);
+  $RecordCount = $z->num();
+  $arrGroup = array();
+  if($RecordCount>0){
+    $v = $z->row();
+    foreach($v as $Row){
+      $arr = array();
+      $arr["ID"] = $Row["ID"];
+      $arr["Name"] = $Row["Name"];
+      $arrGroup[] = $arr;
+    }
+  }
+  $defaultdata[$LMId]["img"] = array("W"=>1024,"H"=>768,"aspectRatio"=>4/3);
+  $defaultdata[$LMId]["thumb"] = array("P"=>array("m","l"),"W"=>array(1024,400),"H"=>array(768,300));
+  $defaultdata[$LMId]["group"] = $arrGroup;//array('A'=>'กิจกรรม','B'=>'กองทุน');
+  $defaultdata[$LMId]["filetype"] = ".pdf,.doc,.xls,.ppt,.docx,.xlsx,.pptx,.zip,.jpg,.png";
+  $defaultdata[$LMId]["fileupload"] = "index-uploaddocument.php";
+  $defaultdata[$LMId]["modulekey"] = $arrinkey;
+  $defaultdata[$LMId]["path"] = array("PATH"=>$pathuploadmodule,"HTML"=>$pathuploadhtml,"FILE"=>$pathuploadfile,"PICTURE"=>$pathuploadpicture);
+}
+?>

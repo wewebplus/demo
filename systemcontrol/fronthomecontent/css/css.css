@@ -1,0 +1,49 @@
+.hh01 { margin: 0 0 5px 0;}
+
+ul.listsubmenu { margin: 10px 0 10px 0; padding: 0px;}
+ul.listsubmenu > li { display: flex; align-items: center; justify-content:flex-start; padding: 4px;}
+ul.listsubmenu > li:hover { background-color: #CCC;}
+ul.listsubmenu > li div.relateimg { width: 40px; margin: 0 10px 0 0;}
+ul.listsubmenu > li div.relateimg > img { display: block; width: 100%; border: 1px solid #000; padding: 1px;}
+ul.listsubmenu > li div.relatestatus { width: 100px; margin-left: auto;}
+ul.listsubmenu > li div.relatebtn { width: 100px; display: flex; align-items: center; justify-content:space-around;}
+ul.listsubmenu > li div.relatebtn > a.relateicon { font-size: 22px;}
+
+table.table-fix td { vertical-align: top !important;}
+table.table-fix td div.relateimg { width: 40px; margin: 0 10px 0 0;}
+table.table-fix td div.relateimg > img { display: block; width: 100%; border: 1px solid #000; padding: 1px;}
+table.table-fix td div.relateimgbreak { width: 170px; margin: 0 10px 0 0;}
+table.table-fix td div.relateimgbreak > img { display: block; width: 100%; border: 1px solid #000; padding: 1px;}
+table.table-fix td > div.relatebtn { width: 140px; margin: 0 0 5px 0; display: flex; align-items: center; justify-content:space-around;}
+table.table-fix td > div.relatebtn > a.relateicon { font-size: 22px;}
+table.table-fix td > div.relategroupbtn { width: 80px; margin: 0 0 5px 0; display: flex; align-items: center; justify-content:space-around;}
+table.table-fix td > div.relategroupbtn > a.relateicon { font-size: 22px;}
+
+a.chkUse { display: block; text-decoration: none;}
+a.chkUse.statusOn { color: #040a76;}
+a.chkUse.statusOff { color: #F00;}
+
+a.chkUse.statusNew { color: #ffbe68;}
+a.chkUse.statusSend { color: #bdef68;}
+a.chkUse.statusComplete { color: #67c267;}
+
+.linebtnlist { display: flex; align-items: center;}
+.linebtnlist > div { margin: 0 10px 0 0;}
+
+.popup-importprd { max-width: 700px !important;}
+.popup-editform { max-width: 700px !important;}
+
+.divaction { text-align: center; display: flex; align-items: center; justify-content:flex-end;}
+.divaction a { display: block; margin: 0 5px 0 5px; width: 34px; height: 34px; line-height: 30px; color: #016a9a; border: 1px solid #016a9a; border-radius: 50%;}
+
+  /* custom alignment (set by 'renderColumns'' event) */
+ table.fancytree-ext-table {
+    width: 100%;
+ }
+ /* custom alignment (class is set by row template) */
+ td.alignCenter {
+    text-align: center;
+ }
+ td.alignRight {
+    text-align: right;
+ }

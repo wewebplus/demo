@@ -1,0 +1,186 @@
+a.boxviewimages { display: block; width: 165px;}
+a.boxviewimages img { width: 100%;}
+
+.boxlang { border: 0px solid #CCC; padding: 10px; margin: 0 0 10px 0;}
+
+.hh01 { font-weight:bold; padding-bottom:5px;}
+
+.TablelistPma { border-spacing: 1px; border-collapse: separate; width:100%; font-size:12px; border-bottom:1px solid #666;}
+.TablelistPma tr { height:35px;}
+.TablelistPma tr.trrowpma {}
+.TablelistPma tr.trrowpma:hover { background:#DFDFDF;}
+.TablelistPma tr.trrowpma00 {}
+.TablelistPma tr.trrowpma01 { background:#F3F3F3;}
+
+.TablelistPma td.colgroupmenu { background:#999; padding-left:5px; font-weight:bold;}
+.TablelistPma td.colgroupmenuchk { background:#999; padding-left:5px;}
+
+.TablelistPma td.colmenuhead { font-weight:bold;}
+.TablelistPma td.colmenu { padding-left:15px;}
+.TablelistPma td.colselect { width:130px; text-align:center;}
+
+.txtpma { color:#333; cursor:pointer;}
+.w100p { width: 100%;}
+
+.bxpreviewimg img { display: block; width: 100%;}
+.viewbxpreviewimg img { display: block; width: 290px;}
+
+.img-container01 { min-height: 466px; max-height: 466px; margin-bottom: 20px; }
+.img-container01 img { max-width: 100%;}
+.preview-inpw {
+  width: 290px;
+  height: 163px;
+}
+.boxcropgrouppreview { width: 210px;height: 210px; text-align: center; line-height: 210px; border: 1px solid #CCCCCC;}
+.boxcropgrouppreview img { display: block; height:100%;  }
+
+.boxcroppreview { width: 100%; min-height: 160px; text-align: center; line-height: 290px;}
+.boxcroppreview img { display: block; width: 100%; border: 1px solid #CCCCCC; margin: 0 auto;}
+
+.boxcroptextsize {width: 100%;text-align: center; padding:10px 0 5px 0;}
+
+img.imglist { display:block; width:80%;}
+img.imglistgallery {display:block; max-height:90px; margin: 5px auto;}
+img.qrcode { display:block; width:120px;}
+img.barcode { display:block; width:120px;}
+
+.viewtextinput { padding: 10px 0 0 40px;}
+
+.btn-group-crop { margin-bottom:0px !important;}
+
+#sortable { list-style-type: none; margin: 0; padding: 0; }
+#sortable li { position: relative; margin: 3px 3px 3px 0; padding: 1px; float: left; width: 100px; height: 125px; font-size: 4em; text-align: center; background:#CCC; border: 1px solid #000;}
+#sortable > li > a.showimgs { display:block; width:90px; height:90px; overflow:hidden; margin:0 auto;}
+#sortable > li > a.delimg { display: block; position: absolute; width: 20px; bottom:5px; right: 5px; font-size: 20px; }
+#sortable > li > a.delimg:hover {color: #000;}
+
+/*dropzone demo css*/
+.dz-message { height:0px !important;  }
+.dz-default.dz-message span {  opacity: 1 !important;display:block !important;;}
+
+.tbbookinglist { border-spacing: 1px; border-collapse: separate; width:100%; font-size:12px; border-bottom:1px solid #666;}
+.tbbookinglist tr.mbrlisthead { background:#0FF;}
+.tbbookinglist tr.mbrlisthead > td { padding:5px 0 5px 0; text-align:center;}
+.tbbookinglist tr.mbrlist > td { padding:5px 0 5px 0;}
+.tbbookinglist tr.mbrlist > td:nth-child(1) { width: 40px;}
+.tbbookinglist tr.mbrlist > td:nth-child(2) { width:150px; }
+.tbbookinglist tr.mbrlist > td:nth-child(3) { width:150px;}
+.tbbookinglist tr.mbrlist > td:nth-child(4) { }
+.tbbookinglist tr.mbrlist > td:nth-child(5) {}
+.tbbookinglist tr.mbrlist > td:nth-child(6) { width: 100px; text-align:center;}
+.tbbookinglist tr.mbrlist > td:nth-child(7) { width: 100px; text-align:center;}
+
+#sortablecontent { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#sortablecontent li { margin: 0 5px 5px 5px; padding: 8px; font-size: 1.2em; border: 1px solid #000;}
+#sortablecontent li img { height: 2em; width: auto; display: inline-block; margin: 0 10px 0 0}
+
+.ui-sortable {}
+.ui-sortable .ui-state-highlight { height: 2em; line-height: 2em; border: 1px solid #dad55e; background: #fffa90; }
+.ui-sortable .ui-sortable-handle { background-color: #FFF; padding: 4px;}
+.ui-sortable .ui-sortable-placeholder { background-color: #00F;}
+.ui-sortable .ui-sortable-helper { background-color:#CCC;}
+
+.paneltab {
+  position: relative; margin: 0 10px 0 10px;
+  height: auto;
+  color: #999;
+  border-radius: 0;
+  border-top: 1px solid transparent;
+  border-left: 0;
+  border-right: 0;
+  background-color: #FAFAFA;
+}
+.paneltab li.active > a {
+  border-top: 2px solid #4a89dc;
+  border-left: 1px solid #CCC;
+  border-bottom: 0px solid #CCC !important;
+}
+.paneltab li > a .required { color: #F00;}
+.paneltabbody { margin: 0 10px 0 10px; border-left: 1px solid #CCC;border-right: 1px solid #CCC;border-bottom: 1px solid #CCC;}
+
+ul.showhistory { list-style: none; margin: 0; padding: 0;}
+ul.showhistory li { margin: 0 0 10px 0;}
+ul.showhistory li div.ind1 { font-weight: bold;}
+
+.tddownload { font-size: 20px;}
+
+.progress_wrp {
+		display: none;height: 24px;
+		border: 1px solid #0099CC;
+		padding: 1px;
+		position: relative;
+		border-radius: 3px;
+		text-align: left;
+		background: #fff;
+		box-shadow: inset 1px 3px 6px rgba(0, 0, 0, 0.12);
+}
+.progress_wrp .progress-bar{
+	height: 20px;
+		border-radius: 3px;
+		background-color: #f39ac7;
+		width: 0;
+		box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+}
+.progress_wrp .status{
+	top:3px;
+	left:45%;
+	position:absolute;
+	display:inline-block;
+	color: #000000;
+}
+.labeluploadfile {cursor: pointer; font-size: 20px; color: #999;}
+.labeluploadfile:hover { color: #000;}
+div.Recommended { padding: 0 0 10px 0;}
+div.postuploadicon {
+    /*width: 109px;*/
+    height: 30px; margin: 0 0 10px 0;
+}
+.uploadFile {
+  visibility: hidden;
+}
+.showoption { padding: 10px 0 10px 0;}
+.showoption img { display: block; width: 100%;}
+
+.divaction { text-align: center; display: flex; align-items: center; justify-content:center;}
+.divaction a { display: block; margin: 0 5px 0 5px; width: 34px; height: 34px; line-height: 30px; color: #016a9a; border: 1px solid #016a9a; border-radius: 50%;}
+.divstatus {}
+.divstatus > div { margin: 0 0 5px 0;}
+
+a.chkUse { display: block; text-decoration: none;}
+a.chkUse.statusOn { color: #040a76;}
+a.chkUse.statusOff { color: #F00;}
+a.chkUse.pinYes { color: #040a76;}
+a.chkUse.pinYes i { color: #C00707;}
+a.chkUse.pinNo { color: #CCC;}
+a.chkUse.pinNo i { color: #CCC;}
+a.chkUse.PublicOn { color: #040a76;}
+a.chkUse.PublicOn i { color: #040a76;}
+a.chkUse.PublicOff { color: #CCC;}
+a.chkUse.PublicOff i { color: #CCC;}
+
+div.boxrelate { display: flex;flex-wrap:wrap;align-items:stretch;}
+div.boxrelate > div.boxinnerrelate { width: 150px; border: 1px solid #CCC; margin: 0 5px 5px 0; padding: 4px; background: #FFF;}
+div.boxrelate > div.boxinnerrelate > div.relatelineimg { height: 100px; width: 100%; overflow: hidden;}
+div.boxrelate > div.boxinnerrelate > div.relatelineimg img { height: 100%; display: block; margin: 0 auto;}
+div.boxrelate > div.boxinnerrelate > div.relatelineinfo {}
+div.boxrelate > div.boxinnerrelate > div.relatelineinfo .relatelinedetail { height: 25px; padding: 2px 0 2px 0;}
+div.boxrelate > div.boxinnerrelate > div.relatelineinfo .relatelinedetail input[type=text]  { width: 100%;}
+div.boxrelate > div.boxinnerrelate > div.relatelineinfo .relatelinebtn {display: flex; justify-content:flex-end;}
+div.boxrelate > div.boxinnerrelate > div.relatelineinfo .relatelinebtn a { display:block; margin: 4px;}
+div.boxrelate .ui-state-highlight { width: 150px; border: 1px solid #CCC; margin: 0 5px 5px 0; padding: 4px; background: #FF0;}
+
+.boxuploadfile { width: 100%;}
+div.boxrelatefile { display: flex;flex-wrap:wrap;align-items:stretch;}
+div.boxrelatefile > div.boxinnerrelate { width: 100%; border: 1px solid #CCC; margin: 0 5px 5px 0; padding: 4px; background: #FFF; display: flex; align-items: flex-start; justify-content: flex-start;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineimg { width: 8%;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineimg img {display: block; width: 100%; margin: 0 auto;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineinfo { width: 85%;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineinfo .relatelinedetail { width: 100%; height: 25px; padding: 2px 0 2px 0;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineinfo .relatelinedetail input[type=text]  { width: 100%;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineinfo .relatelinebtn {display: flex; justify-content:flex-end; margin: 5px 0 0 0;}
+div.boxrelatefile > div.boxinnerrelate > div.relatelineinfo .relatelinebtn a { display:block; margin: 4px;}
+div.boxrelatefile .ui-state-highlight { width: 100%; border: 1px solid #CCC; margin: 0 5px 5px 0; padding: 20px; background: #FF0;}
+
+@media (max-width: 1280px) {
+	.tray-right { display:none !important;}
+}

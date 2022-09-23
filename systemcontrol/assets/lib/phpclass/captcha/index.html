@@ -1,0 +1,47 @@
+<html>
+    <head>
+		<title>Create Captcha using PHP,jQuery and AJAX</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="script.js"></script>
+    </head>
+    <body>
+
+        <div id="mainform">
+            <div class="innerdiv">
+                <h2>Create Captcha using PHP,jQuery and AJAX</h2>
+                <!-- Required div starts here -->
+                <form method="post" id="myForm">
+                    <h3>Fill Your Information!</h3> 
+                    <br/>
+                    <table>
+                        <tr>
+                            <td>Username:</td>
+                            <td><input type='text' name='username' id='username1'></td>
+                        </tr>
+
+                        <tr>
+                            <td>Email:</td>
+                            <td><input type='text' name='email' id='email1'></td>
+                        </tr>                    
+                        <tr>
+                            <td><br/><br/><br/></td>
+                            <td id="imgparent"><div id="imgdiv"><img id="img" src="captcha.php" /></div><img id="reload" src="reload.png" /></td>
+
+                        <tr>
+                            <td>Enter Image Text:</td>
+                            <td><input id="captcha1" name="captcha" type="text"></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><input type='button' id="button" value='Submit'></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <!-- Right side div -->
+            <div id="formget"><a href=http://www.formget.com/app><img src="formget.jpg" alt="Online Form Builder"/></a>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+<!-- begin: .tray-right -->
+<aside class="tray tray-right tray290">
+    <h4> <?php echo $StaffFullname?> - <small><?php echo $mymenuname?></small> </h4>
+    <ul class="icon-list">
+      <li>
+        <i class="fa fa-exclamation-circle text-warning fa-lg pr10"></i>
+        <b> Author:</b> Management
+      </li>
+    </ul>
+
+    <div class="tray-affix w100p" data-spy="affix" data-offset-top="200">
+
+              <div id="nav-spy">
+              </div>
+
+    </div>
+
+</aside>
+<!-- end: .tray-right -->

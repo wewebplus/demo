@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DBOzone';
+    src: url('db_Ozone.eot');
+    src: url('db_Ozone.eot?#iefix') format('embedded-opentype'),
+         url('db_Ozone.woff') format('woff'),
+         url('db_Ozone.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

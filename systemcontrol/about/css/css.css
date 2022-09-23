@@ -1,0 +1,18 @@
+.boxlang { border: 0px solid #CCC; padding: 10px; margin: 0 0 10px 0;}
+.paneltab {
+  position: relative; margin: 0 10px 0 10px;
+  height: auto;
+  color: #999;
+  border-radius: 0;
+  border-top: 1px solid transparent;
+  border-left: 0;
+  border-right: 0;
+  background-color: #FAFAFA;
+}
+.paneltab li.active > a {
+  border-top: 2px solid #4a89dc;
+  border-left: 1px solid #CCC;
+  border-bottom: 0px solid #CCC !important;
+}
+.paneltab li > a .required { color: #F00;}
+.paneltabbody { margin: 0 10px 0 10px; border-left: 1px solid #CCC;border-right: 1px solid #CCC;border-bottom: 1px solid #CCC;}

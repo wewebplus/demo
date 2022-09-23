@@ -1,0 +1,28 @@
+
+@media screen and (-ms-high-contrast:active), (-ms-high-contrast:none){
+    
+    /* Topnav */
+    nav.topnav .submenu-dropdown{display:none;}
+    nav.topnav .menu:hover > .submenu-dropdown{display:block;}
+    nav.topnav .option > .dropdown{display:none;}
+    nav.topnav .option:hover > .dropdown{display:block;}
+
+    /* Sidenav */
+    /* @media screen and (max-width:1199.98px){ */
+        nav.sidenav ~ .sidenav-filter{display:none;}
+        nav.sidenav.active ~ .sidenav-filter{display:block;}
+    /* } */
+    
+    /* Global Search Container */
+    .global-search-container{display:none;}
+    .global-search-container.active{display:block;}
+
+    /* Popup */
+    .popup-container{display:none;}
+    .popup-container.active{display:block;}
+
+    /* Toggle Target */
+    .toggle-target{display:none;}
+    .toggle-target.active{display:none;}
+
+}

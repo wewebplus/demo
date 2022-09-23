@@ -1,0 +1,19 @@
+a.boxviewimages { display: block; width: 165px;}
+a.boxviewimages img { width: 100%;}
+
+.TablelistPma { border-spacing: 1px; border-collapse: separate; width:100%; font-size:12px; border-bottom:1px solid #666;}
+.TablelistPma tr { height:35px;}
+.TablelistPma tr.trrowpma {}
+.TablelistPma tr.trrowpma:hover { background:#DFDFDF;}
+.TablelistPma tr.trrowpma00 {}
+.TablelistPma tr.trrowpma01 { background:#F3F3F3;}
+
+.TablelistPma td.colgroupmenu { background:#999; padding-left:5px; font-weight:bold;}
+.TablelistPma td.colgroupmenuchk { background:#999; padding-left:5px;}
+
+.TablelistPma td.colmenuhead { font-weight:bold;}
+.TablelistPma td.colmenu { padding-left:15px;}
+.TablelistPma td.colselect { width:130px; text-align:center;}
+
+.txtpma { color:#333; cursor:pointer;}
+.w100p { width: 100%;}

@@ -1,0 +1,19 @@
+DirectoryIndex index.php index.html
+#php_value date.timezone "Asia/Bangkok"
+
+#php_value display_errors off
+
+RewriteEngine on
+#RewriteCond %{REQUEST_URI} !^/testdata/
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+#RewriteCond %{HTTP_HOST} ^xxxxx.com [NC]
+#RewriteRule ^(.*)$ https://www.xxxx.com//$1 [L,R=301,NC]
+
+ErrorDocument 404 /demo/thaiselect2022/errorpage/404.php
+
+RewriteRule ^(admin|user|js|lib|site-html|systemcontrol)($|/) - [L]
+
+RewriteRule ^th/(.*) 2022webth/$1
+RewriteRule ^en/(.*) 2022weben/$1
